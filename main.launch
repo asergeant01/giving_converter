@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.python.pydev.debug.regularLaunchConfigurationType">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/giving_converter/converter/main.py"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="${workspace_loc:giving_converter/converter/main.py}"/>
+    <stringAttribute key="org.eclipse.ui.externaltools.ATTR_OTHER_WORKING_DIRECTORY" value="${workspace_loc:giving_converter/converter}"/>
+    <stringAttribute key="org.eclipse.ui.externaltools.ATTR_TOOL_ARGUMENTS" value="--input /Users/alan/Library/Mobile\ Documents/com~apple~CloudDocs/Drumcree/Vestry/Envelopes/2019/cash_book_2019.xlsx --map /Users/alan/Library/Mobile\ Documents/com~apple~CloudDocs/Drumcree/Vestry/Envelopes/2019/env_details_2019.xlsx --date &quot;20/08/2019&quot;"/>
+    <stringAttribute key="org.eclipse.ui.externaltools.ATTR_WORKING_DIRECTORY" value="${workspace_loc:giving_converter/converter}"/>
+    <stringAttribute key="org.python.pydev.debug.ATTR_INTERPRETER" value="__default"/>
+    <stringAttribute key="org.python.pydev.debug.ATTR_PROJECT" value="giving_converter"/>
+    <intAttribute key="org.python.pydev.debug.ATTR_RESOURCE_TYPE" value="1"/>
+    <stringAttribute key="process_factory_id" value="org.python.pydev.debug.processfactory.PyProcessFactory"/>
+</launchConfiguration>
